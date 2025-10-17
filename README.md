@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm **Taklima Kabir**  
+### 💻 Web Developer | 🎓 IT Enthusiast | 🗾 Based in Japan  
 
-<!--
-**shima-taklima/shima-taklima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a motivated and detail-oriented web developer passionate about building modern, responsive, and user-friendly web applications.  
+Currently enhancing my skills in **JavaScript** and **React**, and preparing for a **Master’s in IT** in Japan.  
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Development:**  
+- HTML5 · CSS3 · JavaScript (ES6+)  
+
+**Tools & Technologies:**  
+- Git · GitHub · VS Code · Chrome DevTools  
+
+**Currently Learning:**  
+- React.js · Node.js · API Integration  
+
+**Languages:**  
+- 🏅 Japanese — JLPT N2 Passed  
+- 🇬🇧 English — Fluent  
+- 🇧🇩 Bengali — Native  
+
+
+
+
