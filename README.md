@@ -7,7 +7,7 @@ Currently enhancing my skills in **JavaScript** and **React**, and preparing for
 ## 🚀 Skills
 
 **Frontend Development:**  
-- HTML5 · CSS3 · JavaScript (ES6+)  
+- HTML5 · CSS3 · JavaScript (ES6+)  . TypeScript
 
 **Tools & Technologies:**  
 - Git · GitHub · VS Code · Chrome DevTools  
